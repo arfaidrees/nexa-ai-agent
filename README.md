@@ -173,10 +173,6 @@ Real, non-sensitive screenshots from the app:
 
 Add the comparison screenshot as `docs/screenshots/product-comparison.png` when available.
 
-## Demo Video
-
-Add a real recording link here when available: `[Watch the Nexa demo](VIDEO_URL)`.
-
 ## Limitations
 
 - The electronics catalog and company policies are fictional demo data.
