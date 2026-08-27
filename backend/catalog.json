@@ -1,0 +1,558 @@
+[
+  {
+    "id": "phone-001",
+    "name": "Nexa Photon X1",
+    "brand": "Nexa",
+    "category": "phone",
+    "price": 74999,
+    "description": "Balanced mid-range phone with strong camera performance and all-day battery life.",
+    "stock": 18,
+    "rating": 4.5,
+    "attributes": {
+      "display_inches": 6.5,
+      "display_type": "AMOLED",
+      "processor": "Octa-core",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "rear_camera_mp": 50,
+      "battery_mah": 5000,
+      "fast_charging_w": 45,
+      "5g": true
+    }
+  },
+  {
+    "id": "phone-002",
+    "name": "Orion Nova 8",
+    "brand": "Orion",
+    "category": "phone",
+    "price": 62999,
+    "description": "Reliable daily driver with efficient battery and clean software.",
+    "stock": 24,
+    "rating": 4.3,
+    "attributes": {
+      "display_inches": 6.4,
+      "display_type": "LCD",
+      "processor": "Octa-core",
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "rear_camera_mp": 48,
+      "battery_mah": 5200,
+      "fast_charging_w": 33,
+      "5g": true
+    }
+  },
+  {
+    "id": "phone-003",
+    "name": "Pulse Max Pro",
+    "brand": "Pulse",
+    "category": "phone",
+    "price": 89999,
+    "description": "Premium camera-focused phone with large battery and bright display.",
+    "stock": 10,
+    "rating": 4.7,
+    "attributes": {
+      "display_inches": 6.7,
+      "display_type": "AMOLED",
+      "processor": "High-performance octa-core",
+      "ram_gb": 12,
+      "storage_gb": 256,
+      "rear_camera_mp": 108,
+      "battery_mah": 5100,
+      "fast_charging_w": 67,
+      "5g": true
+    }
+  },
+  {
+    "id": "phone-004",
+    "name": "Atlas Beam Lite",
+    "brand": "Atlas",
+    "category": "phone",
+    "price": 41999,
+    "description": "Budget-friendly phone with good basics and dependable battery life.",
+    "stock": 31,
+    "rating": 4.0,
+    "attributes": {
+      "display_inches": 6.6,
+      "display_type": "LCD",
+      "processor": "Octa-core",
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "rear_camera_mp": 50,
+      "battery_mah": 5000,
+      "fast_charging_w": 18,
+      "5g": false
+    }
+  },
+  {
+    "id": "phone-005",
+    "name": "Vertex S9 Ultra",
+    "brand": "Vertex",
+    "category": "phone",
+    "price": 124999,
+    "description": "High-end flagship with outstanding camera and premium build.",
+    "stock": 7,
+    "rating": 4.8,
+    "attributes": {
+      "display_inches": 6.8,
+      "display_type": "LTPO AMOLED",
+      "processor": "Flagship octa-core",
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "rear_camera_mp": 200,
+      "battery_mah": 5000,
+      "fast_charging_w": 80,
+      "5g": true
+    }
+  },
+  {
+    "id": "phone-006",
+    "name": "Zen Mobile A5",
+    "brand": "Zen",
+    "category": "phone",
+    "price": 55999,
+    "description": "Affordable phone with solid battery and practical storage.",
+    "stock": 20,
+    "rating": 4.2,
+    "attributes": {
+      "display_inches": 6.52,
+      "display_type": "IPS LCD",
+      "processor": "Octa-core",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "rear_camera_mp": 64,
+      "battery_mah": 6000,
+      "fast_charging_w": 25,
+      "5g": false
+    }
+  },
+  {
+    "id": "laptop-001",
+    "name": "Nexa AirBook 13",
+    "brand": "Nexa",
+    "category": "laptop",
+    "price": 149999,
+    "description": "Thin and light laptop for work, study, and everyday productivity.",
+    "stock": 12,
+    "rating": 4.6,
+    "attributes": {
+      "screen_inches": 13.3,
+      "processor": "Intel Core i5",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "battery_hours": 12,
+      "weight_kg": 1.2,
+      "graphics": "Integrated",
+      "touchscreen": false
+    }
+  },
+  {
+    "id": "laptop-002",
+    "name": "Orion ProBook 14",
+    "brand": "Orion",
+    "category": "laptop",
+    "price": 189999,
+    "description": "Premium productivity laptop with strong battery and crisp display.",
+    "stock": 9,
+    "rating": 4.7,
+    "attributes": {
+      "screen_inches": 14,
+      "processor": "Intel Core i7",
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "battery_hours": 14,
+      "weight_kg": 1.3,
+      "graphics": "Integrated",
+      "touchscreen": false
+    }
+  },
+  {
+    "id": "laptop-003",
+    "name": "Pulse Gaming 16",
+    "brand": "Pulse",
+    "category": "laptop",
+    "price": 249999,
+    "description": "Gaming laptop with dedicated graphics and fast refresh display.",
+    "stock": 6,
+    "rating": 4.8,
+    "attributes": {
+      "screen_inches": 16,
+      "processor": "AMD Ryzen 9",
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "battery_hours": 7,
+      "weight_kg": 2.4,
+      "graphics": "NVIDIA GeForce RTX 4060",
+      "touchscreen": false
+    }
+  },
+  {
+    "id": "laptop-004",
+    "name": "Atlas WorkMate 15",
+    "brand": "Atlas",
+    "category": "laptop",
+    "price": 112999,
+    "description": "Practical laptop for office tasks, browsing, and online classes.",
+    "stock": 17,
+    "rating": 4.3,
+    "attributes": {
+      "screen_inches": 15.6,
+      "processor": "Intel Core i5",
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "battery_hours": 10,
+      "weight_kg": 1.8,
+      "graphics": "Integrated",
+      "touchscreen": false
+    }
+  },
+  {
+    "id": "laptop-005",
+    "name": "Vertex Studio 14",
+    "brand": "Vertex",
+    "category": "laptop",
+    "price": 219999,
+    "description": "Creator-friendly laptop with vivid display and strong multitasking headroom.",
+    "stock": 8,
+    "rating": 4.6,
+    "attributes": {
+      "screen_inches": 14,
+      "processor": "Intel Core i7",
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "battery_hours": 11,
+      "weight_kg": 1.5,
+      "graphics": "Integrated",
+      "touchscreen": true
+    }
+  },
+  {
+    "id": "laptop-006",
+    "name": "Zen Slim 15",
+    "brand": "Zen",
+    "category": "laptop",
+    "price": 97999,
+    "description": "Budget laptop with plenty of storage and a comfortable keyboard.",
+    "stock": 15,
+    "rating": 4.1,
+    "attributes": {
+      "screen_inches": 15.6,
+      "processor": "AMD Ryzen 5",
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "battery_hours": 9,
+      "weight_kg": 1.7,
+      "graphics": "Integrated",
+      "touchscreen": false
+    }
+  },
+  {
+    "id": "headphone-001",
+    "name": "Nexa SoundBeat ANC",
+    "brand": "Nexa",
+    "category": "headphones",
+    "price": 23999,
+    "description": "Wireless over-ear headphones with active noise cancellation.",
+    "stock": 28,
+    "rating": 4.6,
+    "attributes": {
+      "type": "over-ear",
+      "connection": "Bluetooth 5.3",
+      "battery_hours": 35,
+      "noise_cancellation": true,
+      "microphone": true,
+      "water_resistant": false
+    }
+  },
+  {
+    "id": "headphone-002",
+    "name": "Orion BassFlex",
+    "brand": "Orion",
+    "category": "headphones",
+    "price": 12999,
+    "description": "Bass-forward headphones with long battery life and comfortable fit.",
+    "stock": 35,
+    "rating": 4.4,
+    "attributes": {
+      "type": "over-ear",
+      "connection": "Bluetooth 5.2",
+      "battery_hours": 40,
+      "noise_cancellation": false,
+      "microphone": true,
+      "water_resistant": false
+    }
+  },
+  {
+    "id": "headphone-003",
+    "name": "Pulse AirPods Lite",
+    "brand": "Pulse",
+    "category": "headphones",
+    "price": 8999,
+    "description": "Compact true wireless earbuds for casual listening and calls.",
+    "stock": 40,
+    "rating": 4.1,
+    "attributes": {
+      "type": "in-ear",
+      "connection": "Bluetooth 5.3",
+      "battery_hours": 24,
+      "noise_cancellation": false,
+      "microphone": true,
+      "water_resistant": true
+    }
+  },
+  {
+    "id": "headphone-004",
+    "name": "Atlas Studio ANC",
+    "brand": "Atlas",
+    "category": "headphones",
+    "price": 18999,
+    "description": "Noise-cancelling headset built for focused work and travel.",
+    "stock": 22,
+    "rating": 4.5,
+    "attributes": {
+      "type": "over-ear",
+      "connection": "Bluetooth 5.3",
+      "battery_hours": 30,
+      "noise_cancellation": true,
+      "microphone": true,
+      "water_resistant": false
+    }
+  },
+  {
+    "id": "headphone-005",
+    "name": "Vertex Sport Buds",
+    "brand": "Vertex",
+    "category": "headphones",
+    "price": 10999,
+    "description": "Workout-friendly earbuds with secure fit and sweat resistance.",
+    "stock": 33,
+    "rating": 4.3,
+    "attributes": {
+      "type": "in-ear",
+      "connection": "Bluetooth 5.2",
+      "battery_hours": 28,
+      "noise_cancellation": false,
+      "microphone": true,
+      "water_resistant": true
+    }
+  },
+  {
+    "id": "headphone-006",
+    "name": "Zen QuietMax",
+    "brand": "Zen",
+    "category": "headphones",
+    "price": 15999,
+    "description": "Balanced sound with strong ANC at an affordable price.",
+    "stock": 26,
+    "rating": 4.4,
+    "attributes": {
+      "type": "over-ear",
+      "connection": "Bluetooth 5.2",
+      "battery_hours": 32,
+      "noise_cancellation": true,
+      "microphone": true,
+      "water_resistant": false
+    }
+  },
+  {
+    "id": "watch-001",
+    "name": "Nexa Watch S",
+    "brand": "Nexa",
+    "category": "smartwatch",
+    "price": 27999,
+    "description": "Smartwatch with fitness tracking and polished display.",
+    "stock": 19,
+    "rating": 4.5,
+    "attributes": {
+      "display_inches": 1.7,
+      "battery_days": 5,
+      "gps": true,
+      "heart_rate_monitor": true,
+      "water_resistant": true,
+      "nfc": true
+    }
+  },
+  {
+    "id": "watch-002",
+    "name": "Orion FitTrack 2",
+    "brand": "Orion",
+    "category": "smartwatch",
+    "price": 19999,
+    "description": "Fitness-first smartwatch with strong health tracking basics.",
+    "stock": 25,
+    "rating": 4.3,
+    "attributes": {
+      "display_inches": 1.5,
+      "battery_days": 7,
+      "gps": true,
+      "heart_rate_monitor": true,
+      "water_resistant": true,
+      "nfc": false
+    }
+  },
+  {
+    "id": "watch-003",
+    "name": "Pulse Active Pro",
+    "brand": "Pulse",
+    "category": "smartwatch",
+    "price": 34999,
+    "description": "Premium smartwatch with advanced health and payment features.",
+    "stock": 14,
+    "rating": 4.7,
+    "attributes": {
+      "display_inches": 1.9,
+      "battery_days": 4,
+      "gps": true,
+      "heart_rate_monitor": true,
+      "water_resistant": true,
+      "nfc": true
+    }
+  },
+  {
+    "id": "watch-004",
+    "name": "Atlas Time Lite",
+    "brand": "Atlas",
+    "category": "smartwatch",
+    "price": 14999,
+    "description": "Simple smartwatch for notifications, activity, and sleep tracking.",
+    "stock": 30,
+    "rating": 4.1,
+    "attributes": {
+      "display_inches": 1.4,
+      "battery_days": 8,
+      "gps": false,
+      "heart_rate_monitor": true,
+      "water_resistant": true,
+      "nfc": false
+    }
+  },
+  {
+    "id": "watch-005",
+    "name": "Vertex Loop X",
+    "brand": "Vertex",
+    "category": "smartwatch",
+    "price": 25999,
+    "description": "Stylish smartwatch with route tracking and contactless pay support.",
+    "stock": 16,
+    "rating": 4.4,
+    "attributes": {
+      "display_inches": 1.6,
+      "battery_days": 6,
+      "gps": true,
+      "heart_rate_monitor": true,
+      "water_resistant": true,
+      "nfc": true
+    }
+  },
+  {
+    "id": "watch-006",
+    "name": "Zen Motion One",
+    "brand": "Zen",
+    "category": "smartwatch",
+    "price": 16999,
+    "description": "Affordable smartwatch with useful health tracking and good battery life.",
+    "stock": 21,
+    "rating": 4.2,
+    "attributes": {
+      "display_inches": 1.55,
+      "battery_days": 6,
+      "gps": true,
+      "heart_rate_monitor": true,
+      "water_resistant": true,
+      "nfc": false
+    }
+  },
+  {
+    "id": "accessory-001",
+    "name": "Nexa PowerBank 20K",
+    "brand": "Nexa",
+    "category": "accessory",
+    "price": 8999,
+    "description": "High-capacity power bank for phones and tablets.",
+    "stock": 42,
+    "rating": 4.6,
+    "attributes": {
+      "capacity_mah": 20000,
+      "ports": 2,
+      "fast_charging_w": 22,
+      "wireless_charging": false
+    }
+  },
+  {
+    "id": "accessory-002",
+    "name": "Orion USB-C Hub 7-in-1",
+    "brand": "Orion",
+    "category": "accessory",
+    "price": 10999,
+    "description": "Compact hub for laptops with HDMI, USB, and card reader support.",
+    "stock": 27,
+    "rating": 4.4,
+    "attributes": {
+      "ports": 7,
+      "hdmi": true,
+      "usb_a": 2,
+      "usb_c": 2,
+      "ethernet": false
+    }
+  },
+  {
+    "id": "accessory-003",
+    "name": "Pulse 65W Charger",
+    "brand": "Pulse",
+    "category": "accessory",
+    "price": 4999,
+    "description": "Fast charger suitable for phones, tablets, and some laptops.",
+    "stock": 55,
+    "rating": 4.5,
+    "attributes": {
+      "output_w": 65,
+      "usb_c": 1,
+      "pd_support": true,
+      "gan": true
+    }
+  },
+  {
+    "id": "accessory-004",
+    "name": "Atlas Laptop Sleeve 14",
+    "brand": "Atlas",
+    "category": "accessory",
+    "price": 2999,
+    "description": "Protective sleeve for 14-inch laptops.",
+    "stock": 60,
+    "rating": 4.2,
+    "attributes": {
+      "size_inches": 14,
+      "material": "neoprene",
+      "water_resistant": true
+    }
+  },
+  {
+    "id": "accessory-005",
+    "name": "Vertex Mag Case Pro",
+    "brand": "Vertex",
+    "category": "accessory",
+    "price": 3499,
+    "description": "Magnetic protective case for compatible phones.",
+    "stock": 48,
+    "rating": 4.3,
+    "attributes": {
+      "compatible_with": "phones",
+      "material": "polycarbonate",
+      "magsafe_style": true
+    }
+  },
+  {
+    "id": "accessory-006",
+    "name": "Zen Type-C Earbuds",
+    "brand": "Zen",
+    "category": "accessory",
+    "price": 2499,
+    "description": "Simple wired earbuds with Type-C connector.",
+    "stock": 70,
+    "rating": 4.0,
+    "attributes": {
+      "connection": "USB-C",
+      "microphone": true,
+      "in_line_controls": true
+    }
+  }
+]
